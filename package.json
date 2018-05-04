@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/pranavj1001/electron-mongo-boilerplate/issues"
   },
-  "homepage": "https://github.com/pranavj1001/electron-mongo-boilerplate#readme"
+  "homepage": "https://github.com/pranavj1001/electron-mongo-boilerplate#readme",
+  "dependencies": {
+    "electron": "^2.0.0",
+    "mongodb": "^3.0.7",
+    "mongoose": "^5.0.17"
+  }
 }
