@@ -1,0 +1,19 @@
+{
+  "name": "electron-mongo-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for electron with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavj1001/electron-mongo-boilerplate.git"
+  },
+  "author": "pranavjain <pranavj1001@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavj1001/electron-mongo-boilerplate/issues"
+  },
+  "homepage": "https://github.com/pranavj1001/electron-mongo-boilerplate#readme"
+}
