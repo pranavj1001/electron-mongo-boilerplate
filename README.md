@@ -11,7 +11,8 @@ This repo contains boilerplate code to quickly get started with an electron-mong
 2. Make sure you have node.js
 3. cd to your project folder
 4. Run this command to install all the dependencies ```npm install```
-5. Run this command to startup the app ```npm start```
+5. Make sure to run mongod.exe and your db folder is present. 
+6. Run this command to startup the app ```npm start```
 
 ## Dependencies
 
